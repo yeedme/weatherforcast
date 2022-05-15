@@ -1,0 +1,18 @@
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+.flex-spacebetween{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-shrink: 0;
+}
+.boxshadow{
+box-shadow: 0px 2px 10px rgb(136, 136, 136);
+}
+.fdc{
+    flex-direction: column;
+}
